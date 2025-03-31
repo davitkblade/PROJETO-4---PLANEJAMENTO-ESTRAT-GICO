@@ -7,7 +7,7 @@
 **Visão**:
   - Nós aspiramos ser uma empresa nacionalmente conhecida como uma das melhores do país em marketing e publicidade. Assim como um site atrativo e fácil de compreender e usar-se, tanto para leigos como para clientes que já tiverem contato com informática.
 
-  ** Valores**: 
+  **Valores**: 
   -  Satisfação do cliente,
 -  Valorização e respeito as pessoas,
 -  Respeito ao Meio Ambiente,
